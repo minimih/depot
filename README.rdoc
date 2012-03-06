@@ -4,4 +4,4 @@ Willkommen bei der Depot Applikation
 
 == Heroku URL
 
-minimih-depot.herokuapp.com/
+http://minimih-depot.herokuapp.com
